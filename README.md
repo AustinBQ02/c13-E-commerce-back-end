@@ -39,14 +39,12 @@ Dependencies:
 
 ## Credits
 
-> List your collaborators, if any, with links to their GitHub profiles.
-> 
-> If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-> 
-> If you followed tutorials, include links to those here as well.
-
 Full-Stack Blog - [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+
 Starter Code - https://github.com/coding-boot-camp/fantastic-umbrella 
+
+Chris Zavala - https://github.com/ChrisZavala 
+
 
 
 ## License
