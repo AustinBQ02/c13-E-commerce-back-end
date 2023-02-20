@@ -1,14 +1,12 @@
-# c13-E-commerce-back-end
-Module 13 - Object-Relational Mapping (ORM) Challenge: E-commerce Back End
+# Module 13 - Object-Relational Mapping (ORM) Challenge: E-commerce Back End
+
+>Internet retail, also known as e-commerce, is the largest sector of the electronics industry, having generated an estimated US$29 trillion in 2017 (Source: United Nations Conference on Trade and Development). E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to the prevalence of these platforms, developers should understand the fundamental architecture of e-commerce sites.
 
 ## Description
 
-> Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:  
->   
-> - What was your motivation?  
-> - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")  
-> - What problem does it solve?  
-> - What did you learn?  
+This app is a from a challenge simulating the back-end of an e-commerce site primarily using Express.js and Sequelize to interact with a MySQL database.
+
+Additional information is documented here: [Issue 1 - Instructions and Criteria](https://github.com/AustinBQ02/c13-E-commerce-back-end/issues/1)
 
 ## Table of Contents
 
@@ -19,7 +17,7 @@ Module 13 - Object-Relational Mapping (ORM) Challenge: E-commerce Back End
 
 ## Installation
 
-> What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+This app requires the node packages listed below.
 
 Dependencies: 
 - dotenv - https://www.npmjs.com/package/dotenv 
@@ -30,12 +28,9 @@ Dependencies:
 
 ## Usage
 
-> Provide instructions and examples for use. Include screenshots as needed.
->   
-> To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:  
->   
->   `![alt text](assets/images/screenshot.png)`
+[Walk-thru Video](https://user-images.githubusercontent.com/77471738/219992504-2af99e62-4025-47f0-988f-47735ceff526.mp4)
 
+[Walkthrough Video - Google Drive Link](https://drive.google.com/file/d/1vma0_cgZPMtEk711QRDG3706hTrVW9XE/view?usp=share_link)
 
 ## Credits
 
